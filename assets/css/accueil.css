@@ -1,0 +1,11 @@
+header {
+    background-color: red;
+    display: flex;
+
+}
+
+menu {
+    display: flex;
+    text-decoration: none;
+
+}
